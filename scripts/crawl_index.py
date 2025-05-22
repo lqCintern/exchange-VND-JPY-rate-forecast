@@ -15,7 +15,6 @@ tickers = {
     'BrentOil': 'BZ=F',
     'WTIOil': 'CL=F',
     'US10YYield': '^TNX',
-    'USDJPY': 'JPY=X',  # Thêm tỷ giá USD/JPY
 }
 
 # Ngày bắt đầu và kết thúc cho dữ liệu lịch sử
